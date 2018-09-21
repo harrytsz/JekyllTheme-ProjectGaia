@@ -8,5 +8,5 @@ stickie: true
 
 ## Demo Post
 
-Texts here....
+This my first blog write on Github Pages ....
 
